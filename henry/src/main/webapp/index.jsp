@@ -9,22 +9,6 @@
 <body>
 <img style="-webkit-user-select: none; cursor: zoom-in;" src="https://i.ytimg.com/vi/Eq0I3tDAxnE/maxresdefault.jpg" width="762" height="572">
 	<h1>Hello</h1>
-
-	HELLOWORLDnfnfgngfngfnfgngfnfgnngf
-
-	HELLOWORLD
-	<h6>教學1 開始使用Git
-
-
-
-製造衝突
-解決衝突</h6>
-
-
-	<h1>Hello</h1>
-	<h1>I really dislike Git!
-	HELLOWORLDaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
-
 <img style="-webkit-user-select: none" src="http://ichef-1.bbci.co.uk/news/ws/660/amz/worldservice/live/assets/images/2016/01/16/160116075731_taiwan_chou_tzuyu_file_976x549_reuters_nocredit.jpg">
 </body>
 </html>
