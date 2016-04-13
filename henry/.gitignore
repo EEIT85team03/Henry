@@ -1,4 +1,9 @@
 /target/
 /.settings/
+<<<<<<< HEAD
 /.project
 /.classpath
+=======
+/.classpath
+/.project
+>>>>>>> branch 'master' of https://github.com/EEIT85team03/Henry.git
