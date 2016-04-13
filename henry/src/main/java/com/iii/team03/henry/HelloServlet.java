@@ -18,4 +18,10 @@ public class HelloServlet extends GenericServlet {
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         res.getWriter().println("Hello world!!");
     }
+	
+	@Override
+	public void destroy(){
+		// TODO Auto-generated method stub
+		System.out.println("destroy");
+	}
 }
