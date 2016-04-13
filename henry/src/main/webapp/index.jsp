@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+
 	<h1>Hello</h1>
 	HELLOWORLD
 	<h6>教學1 開始使用Git
@@ -35,5 +36,10 @@ Push到遠端數據庫
 
 製造衝突
 解決衝突</h6>
+
+	<h1>Hello</h1>
+	I really dislike Git!
+	HELLOWORLDaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 </body>
 </html>
