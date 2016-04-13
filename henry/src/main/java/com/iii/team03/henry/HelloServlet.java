@@ -10,6 +10,11 @@ import java.io.IOException;
 @WebServlet(value="/hello", name="helloServlet")
 public class HelloServlet extends GenericServlet {
     @Override
+    public void init() throws ServletException{
+    	System.out.println("init");
+    }
+	
+	@Override
     public void service(ServletRequest req, ServletResponse res) throws ServletException, IOException {
         res.getWriter().println("Hello world!!");
     }
